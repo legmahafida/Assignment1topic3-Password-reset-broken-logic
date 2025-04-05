@@ -1,0 +1,31 @@
+body {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+   
+    margin: 0; 
+    font-family: Arial, sans-serif; 
+}
+
+ header{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    width: 600px;
+ }
+.main {
+    text-align: center; 
+    margin-top: 70px;
+}
+h1 {
+    margin-bottom: 20px; 
+}
+p {
+    margin: 10px 0; 
+}
+a {
+font-size: 30px;
+}
+  
